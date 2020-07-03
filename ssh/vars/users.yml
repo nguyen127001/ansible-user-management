@@ -1,0 +1,6 @@
+---
+users:
+
+  - username: nguyenvn
+    use_sudo: yes
+
