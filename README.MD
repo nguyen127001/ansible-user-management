@@ -1,1 +1,4 @@
-# ansible-playbook ssh.yml  -i hosts  -u ubuntu -kK
+
+```
+ansible-playbook ssh.yml  -i hosts  -u ubuntu -kK
+```
